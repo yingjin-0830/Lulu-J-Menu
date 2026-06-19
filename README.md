@@ -30,9 +30,6 @@ Download `index.html` and open in any browser — no installation or dependencie
 
 ## 🐾 Meet Lulu
 
-<div align="center">
-  <img src="./lulu.jpg" width="160" alt="Lulu"/>
-</div>
 
 Lulu is the official mascot of this kitchen 🧡  
 She's a chubby yellow capybara wearing a pink ruffled bonnet with a mandarin orange perched on top, dressed in a flouncy pink skirt. Big sparkling eyes, three cute cheek stripes, and the sweetest smile.  
